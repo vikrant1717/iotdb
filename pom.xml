@@ -177,6 +177,7 @@
         <xz.version>1.9</xz.version>
         <zstd-jni.version>1.5.6-3</zstd-jni.version>
         <tsfile.version>2.2.0-250825-SNAPSHOT</tsfile.version>
+        <sonar.organization>vikrant1717</sonar.organization>
     </properties>
     <!--
     if we claim dependencies in dependencyManagement, then we do not claim
